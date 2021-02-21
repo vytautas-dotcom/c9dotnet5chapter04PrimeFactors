@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.deps.json
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.dll
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\bin\Debug\net5.0\ref\PrimeFactorsLib.dll
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.pdb
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.dll
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\ref\PrimeFactorsLib.dll
+C:\Users\Dell\OneDrive\Dokumentai\c#\PRICE\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.pdb
